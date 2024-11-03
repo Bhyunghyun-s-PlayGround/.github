@@ -22,27 +22,33 @@ Each project here represents a learning path, an experiment, or a creative initi
 We utilize a versatile and modern tech stack, showcasing capabilities across backend development, cloud solutions, and more. Here are the core technologies used at Bhyunghyun's PlayGround:
 
 ### Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E11F21?logo=OpenJDK&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Backend Frameworks & Tools
+### Frameworks
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=Gin&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 
-### Databases & Caching
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-### Cloud & Containerization
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+### Infra
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
+![Datadog](https://img.shields.io/badge/-DataDog-632CA6?logo=datadog&logoColor=white)
 
 ---
 
