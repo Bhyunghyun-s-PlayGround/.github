@@ -61,7 +61,7 @@ Bhyunghyun's PlayGround hosts a range of projects that reflect a blend of curios
 
 ## 🤝 Let's Connect
 
-We welcome feedback, collaboration, and knowledge sharing. Feel free to explore, fork, or reach out to Bhyunghyun through GitHub. Join us on this journey to innovate, learn, and make a difference!
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nbhyun0329@gmail.com)
 
 ---
 
