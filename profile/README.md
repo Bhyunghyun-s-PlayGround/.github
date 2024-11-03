@@ -21,30 +21,28 @@ Each project here represents a learning path, an experiment, or a creative initi
 
 We utilize a versatile and modern tech stack, showcasing capabilities across backend development, cloud solutions, and more. Here are the core technologies used at Bhyunghyun's PlayGround:
 
-### Languages & Frameworks
-
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-- ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+### Languages
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Backend Frameworks & Tools
-
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-- ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
 ### Databases & Caching
-
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ### Cloud & Containerization
-
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-- [![Jenkins Badge](https://img.shields.io/badge/-Jenkins-2496ED?style=flat&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
 ---
 
@@ -68,4 +66,3 @@ Bhyunghyun's PlayGround hosts a range of projects that reflect a blend of curios
 ---
 
 *Happy coding and creating! 💻✨*
-
