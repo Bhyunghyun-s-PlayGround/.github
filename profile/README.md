@@ -43,6 +43,7 @@ We utilize a versatile and modern tech stack, showcasing capabilities across bac
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- [![Jenkins Badge](https://img.shields.io/badge/-Jenkins-2496ED?style=flat&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
 
 ---
 
