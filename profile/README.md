@@ -1,4 +1,4 @@
-# Bhyunghyun's PlayGround 🚀
+# Bhyunghyun's PlayGround 🐰
 <div align="center"> <img src="https://github.com/user-attachments/assets/6c1b5180-015c-4f09-a1ef-d5a8b46335c4" width="300" alt="Bhyunghyun's Playground"> </div>
 
 Welcome to **Bhyunghyun's PlayGround**! This organization is a personal innovation hub where we explore new languages, test concepts, and build unique projects. It’s more than a repository—it’s a playground for growth, creativity, and expertise in the latest technologies.
